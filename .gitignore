@@ -1,0 +1,53 @@
+# Dependency directories
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+lib/
+coverage/
+
+# Metro Bundler cache
+.expo/
+.react-native/
+.yarn/
+.gradle/
+.idea/
+.vscode/
+
+# Platform-specific build outputs (Android)
+android/build/
+android/app/build/
+android/.gradle/
+android/local.properties
+android/gradlew
+android/gradlew.bat
+
+# Platform-specific build outputs (iOS)
+ios/build/
+ios/Pods/
+ios/.xcode.env.local
+ios/*.xcworkspace
+ios/*.xcodeproj/xcuserdata/
+ios/*.xcodeproj/project.xcworkspace/
+ios/*.xcodeproj/xcshareddata/
+ios/*.xcodeproj/project.pbxproj.orig
+ios/*.xcodeproj/project.pbxproj.backup
+
+# macOS specific files
+.DS_Store
+
+# React Native specific files
+# Packager config
+packager-config.js
+
+# Debugging files
+*.bundle
+*.map
