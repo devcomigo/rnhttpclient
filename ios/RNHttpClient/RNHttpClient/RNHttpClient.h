@@ -5,8 +5,8 @@
 //  Created by Comigo on 28/07/25.
 //
 
-#import <Foundation/Foundation.h>
+#import <React/RCTBridgeModule.h>
 
-@interface RNHttpClient : NSObject
+@interface RNHttpClient : NSObject <RCTBridgeModule>
 
 @end
