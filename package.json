@@ -1,5 +1,5 @@
 {
-    "name": "rn-http-client",
+    "name": "rnhttpclient",
     "version": "0.0.1",
     "description": "Http client native module for android and ios in react native app",
     "react-native": "src/index",
